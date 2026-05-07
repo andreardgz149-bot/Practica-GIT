@@ -20,8 +20,8 @@ class Cliente
         Console.WriteLine($"Nombre: {nombre} | Correo: {correo}");
     }
 
-    public void HacerPedido (Pedido pedido)
+    public void HacerPedido (Pedido pedido) 
     {
-        Console.WriteLine (nombre +"realizó un pedido con éxito");
+        Console.WriteLine (nombre + " realizó un pedido con éxito");
     }
 }
