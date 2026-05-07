@@ -1,0 +1,15 @@
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\bin\Debug\net10.0\PracticaGit.exe
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\bin\Debug\net10.0\PracticaGit.deps.json
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\bin\Debug\net10.0\PracticaGit.runtimeconfig.json
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\bin\Debug\net10.0\PracticaGit.dll
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\bin\Debug\net10.0\PracticaGit.pdb
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\PracticaGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\PracticaGit.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\PracticaGit.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\PracticaGit.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\PracticaGit.sourcelink.json
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\PracticaGit.dll
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\refint\PracticaGit.dll
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\PracticaGit.pdb
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\PracticaGit.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\practica Git cliente pedido\Practica-GIT\PracticaGit\obj\Debug\net10.0\ref\PracticaGit.dll

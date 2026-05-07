@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APPLE TEHUACAN\\Practica-GIT\\PracticaGit\\PracticaGit.csproj": {}
+    "C:\\Users\\laris\\OneDrive\\Escritorio\\Progra Orientada a Objetos\\practica Git cliente pedido\\Practica-GIT\\PracticaGit\\PracticaGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APPLE TEHUACAN\\Practica-GIT\\PracticaGit\\PracticaGit.csproj": {
+    "C:\\Users\\laris\\OneDrive\\Escritorio\\Progra Orientada a Objetos\\practica Git cliente pedido\\Practica-GIT\\PracticaGit\\PracticaGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APPLE TEHUACAN\\Practica-GIT\\PracticaGit\\PracticaGit.csproj",
+        "projectUniqueName": "C:\\Users\\laris\\OneDrive\\Escritorio\\Progra Orientada a Objetos\\practica Git cliente pedido\\Practica-GIT\\PracticaGit\\PracticaGit.csproj",
         "projectName": "PracticaGit",
-        "projectPath": "C:\\Users\\APPLE TEHUACAN\\Practica-GIT\\PracticaGit\\PracticaGit.csproj",
-        "packagesPath": "C:\\Users\\APPLE TEHUACAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APPLE TEHUACAN\\Practica-GIT\\PracticaGit\\obj\\",
+        "projectPath": "C:\\Users\\laris\\OneDrive\\Escritorio\\Progra Orientada a Objetos\\practica Git cliente pedido\\Practica-GIT\\PracticaGit\\PracticaGit.csproj",
+        "packagesPath": "C:\\Users\\laris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laris\\OneDrive\\Escritorio\\Progra Orientada a Objetos\\practica Git cliente pedido\\Practica-GIT\\PracticaGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APPLE TEHUACAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\laris\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
